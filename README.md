@@ -4,3 +4,4 @@
 <p>To download data run data.sh in data folder or manually download from <a href="https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DL0321EN/data/images/Positive_tensors.zip">Positive_tensor.zip</a> &amp; 
   <a href="https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DL0321EN/data/images/Negative_tensors.zip">Negative_tensor.zip</a></p>
 <hr/>
+<p>Capstone project for <a href="https://www.coursera.org/professional-certificates/ai-engineer?">IBM AI Specialization</a></p>
